@@ -1,11 +1,11 @@
 # harusame
 <p align="center">
-    <a href="https://raw.githubusercontent.com/johnjimysom/ritouseikioni/master/LICENSE.md" alt="WTFPL License">
+    <a href="https://raw.githubusercontent.com/johnjimysom/harusame/master/LICENSE.md" alt="WTFPL License">
         <img src="https://img.shields.io/badge/license-WTFPL-ff69b4.svg"/></a>
     <a href="#version">
         <img src="https://img.shields.io/badge/version-1.0-lightblue.svg"
             alt="version"></a>
-    <a href=https://bureidake.github.io/">
+    <a href="#update">
         <img src="https://img.shields.io/badge/春雨-working-green.svg"
             alt="status"></a>
     <a href="#update">
